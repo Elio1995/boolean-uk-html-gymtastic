@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 strong {
+  font-size: 70%;
+}
+.First h2 {
+  background-color: rgb(70, 139, 172);
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin: 0;
+  color: white;
+}
+
+h1 {
+  color: rgb(70, 139, 172);
+}
+p strong {
+  color: rgb(70, 139, 172);
+}
+
+.Second {
+  margin: 5px;
+}
+
+.Second .Get {
+  border: solid 2px;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-right: 300px;
+  color: orange;
+  border-radius: 20%;
+  font-family: serif;
+}
+
+.Second h2 {
+  padding-top: 15px;
+  color: rgb(70, 139, 172);
+}
+
+.Second h3 {
+  display: inline-block;
+  width: 80px;
+}
+
+.Second .Insta {
+  border: solid 2px;
+  border-radius: 20%;
+  padding: 5px;
+  background-color: rgb(133, 90, 133);
+  color: white;
+}
+.Second .Face {
+  border: solid 2px;
+  border-radius: 20%;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
+.Second .You {
+  border: solid 2px;
+  border-radius: 20%;
+  padding: 5px;
+  background-color: red;
+  color: white;
+}
+
+.Third {
+  background-color: rgb(70, 139, 172);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+  color: white;
+}
+
+.Third .Pop {
+  padding-bottom: 15px;
+}
