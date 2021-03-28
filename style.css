@@ -5,8 +5,17 @@
 
 .Gymnastyc {
   border: 0 solid;
-  height: 490px;
+  height: 510px;
   width: 600px;
+  padding: 10px;
+}
+
+.Aboutus {
+  border: 0 solid;
+  height: 650px;
+  width: 600px;
+  margin-top: 30px;
+  padding: 5px;
 }
 /* Header */
 h1 {
@@ -124,4 +133,33 @@ p strong {
   margin: 0;
   font-size: 65%;
   margin-left: 20px;
+}
+
+/* About Us */
+.Aboutus h1 {
+  font-size: 140%;
+  display: block;
+  background-color: rgb(70, 139, 172);
+  padding: 20px 20px 15px 10px;
+
+  color: white;
+}
+
+.Aboutus p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Aboutus li {
+  border: 2px Solid;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  background-color: rgb(70, 139, 172);
+  color: white;
+  border-radius: 15%;
+}
+
+img {
+  padding: 20px;
 }
